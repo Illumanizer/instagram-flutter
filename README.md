@@ -5,6 +5,12 @@ This is a clone of instagram made with the help of flutter and Firebase.
 
 
 
+# Installation
+
+- Download the app
+- Create account in sign up Screen / if already created, Login using credentials
+
+
 
 ## Features
 
