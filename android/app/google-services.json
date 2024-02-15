@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985551211988",
+    "project_id": "instagram-flutter-remake",
+    "storage_bucket": "instagram-flutter-remake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985551211988:android:ec35a2a2523408af741a41",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePd2yTj6aGyNKbMMmFTnAT2SQx5a82k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
